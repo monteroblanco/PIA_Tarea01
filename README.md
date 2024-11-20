@@ -5,4 +5,4 @@ Esta primera tarea aborda los siguientes puntos del tema:
 - Plataformas de control de versiones. Github.
   (Aprenderemos a crear nuestro primer repositorio con varios archivos).
 - Redes sociales. Twitter o LinkedIn.
-  (Seguiremos a algunas de las multiples comunidades y perfiles profesionales del ámbito de la IA).
+  (Aprenderemos a utilizar las RRSS enfocándolas en el ámbito de la inteligencia artificial).
